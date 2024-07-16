@@ -644,7 +644,7 @@ wrapt==1.14.1 \
     --hash=sha256:ef3f72c9666bba2bab70d2a8b79f2c6d2c1a42a7f7e2b0ec83bb2f9e383950af
     # via -r requirements.in
 
-setuptools==68.2.2 \
+setuptools==70.0.0 \
     --hash=sha256:4ac1475276d2f1c48684874089fefcd83bd7162ddaafb81fac866ba0db282a87 \
     --hash=sha256:b454a35605876da60632df1a60f736524eb73cc47bbc9f3f1ef1b644de74fd2a
     # via
